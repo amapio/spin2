@@ -17,16 +17,16 @@ Vue.component('Spin2', Spin2);
 
 ## API
 
-# String size
+### String size
 提供3个尺寸，默认不填为中，small，large
 
-# String tip
+### String tip
 loading时显示的文字，可以为空
 
-# Boolean spinning
+### Boolean spinning
 控制loading的开关
 
-# Boolean noDot
+### Boolean noDot
 不显示图标
 
 ## Demo
