@@ -15,7 +15,7 @@ Vue.component('Spin2', Spin2)
 <Spin2></Spin2>
 ```
 
-## API
+## 参数
 
 ### String size
 提供3个尺寸，默认不填为中，small，large
