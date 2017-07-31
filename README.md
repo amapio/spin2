@@ -9,7 +9,7 @@
 import Spin2 from '**/spin2'
 
 # 注册
-Vue.component('Spin2', Spin2);
+Vue.component('Spin2', Spin2)
 
 # 调用
 <Spin2></Spin2>
