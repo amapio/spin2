@@ -43,8 +43,3 @@ loading时显示的文字，可以为空
 </Spin2>
 ```
 
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2017, zhangzuo
