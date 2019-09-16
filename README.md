@@ -1,4 +1,4 @@
-# vue-spin2
+# spin2
 
 > 基于ant design的vuejs loading组件
 
